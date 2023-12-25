@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Laravel
 
 Здесь я использовал sanctum для аутентификации, для временного сохранения информации о корзине был реализован сеанс, для локального запуска выполните следующие команды:
 
